@@ -4,6 +4,6 @@
 
 #imprimirLetras("Lorena")
 
-frutas = ["manzana", "pera", "melocotón"]
-print(frutas[1])
+frutas = ["manzana", "pera", "melocotón","naranja","mandarina"]
+print(frutas[4])
 print(frutas.index("melocotón"))
