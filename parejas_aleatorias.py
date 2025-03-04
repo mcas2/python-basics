@@ -13,4 +13,5 @@ random.shuffle(han_espabilao)
 for i in range(len(han_espabilao)):
     print(f"{necesitan_espabilar[i]} 💕 {han_espabilao[i]}")
 
-print(f"Se quedó solo: {necesitan_espabilar[-1]}")
+print(f"Soldado caído: {necesitan_espabilar[-1]}")
+
